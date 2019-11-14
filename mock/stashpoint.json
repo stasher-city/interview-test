@@ -1,0 +1,75 @@
+{
+  "feefo_sku": "27143",
+  "address": "11 Charing Cross Road, London",
+  "open_late": true,
+  "postal_code": "WC2H 0EP",
+  "longitude": -0.12855,
+  "rating_count": 289,
+  "latitude": 51.51001,
+  "id": "897a6ed3342e",
+  "timezone": "Europe/London",
+  "photos": ["https://s3.eu-west-2.amazonaws.com/stasher/stashpoints_staging/897a6ed3342e/0", "https://s3.eu-west-2.amazonaws.com/stasher/stashpoints_staging/897a6ed3342e/1"],
+  "featured": false,
+  "pricing_structure": {
+    "ccy": "KRW",
+    "ccy_minor_in_major": 1,
+    "ccy_symbol": "\u20a9",
+    "extra_day_cost": 40000,
+    "first_day_cost": 47500
+  },
+  "name": "Internet City",
+  "host_id": "16995de45073",
+  "opening_hours": [{
+    "open": "08:00:00",
+    "day": 1,
+    "close": "23:00:00"
+  }, {
+    "open": "08:00:00",
+    "day": 2,
+    "close": "23:00:00"
+  }, {
+    "open": "08:00:00",
+    "day": 0,
+    "close": "23:00:00"
+  }, {
+    "open": "08:00:00",
+    "day": 5,
+    "close": "23:00:00"
+  }, {
+    "open": "11:00:00",
+    "day": 6,
+    "close": "22:00:00"
+  }, {
+    "open": "08:00:00",
+    "day": 3,
+    "close": "23:00:00"
+  }, {
+    "open": "08:00:00",
+    "day": 4,
+    "close": "23:00:00"
+  }],
+  "type": "shop",
+  "open_twentyfour_seven": false,
+  "rating": 4.6,
+  "capacity": 99,
+  "created": "2018-03-16T01:04:41.285725+00:00",
+  "nearest_city": {
+    "name": "London",
+    "bbox": {
+      "northeast": {
+        "lat": 51.6723432,
+        "lng": 0.148271
+      },
+      "southwest": {
+        "lat": 51.3849401,
+        "lng": -0.3514683
+      }
+    },
+    "slug": "london",
+    "parent_id": "02a61f78141f4252ba3c177ad82bb5c4",
+    "id": "8440b6b853e743d796046f9f1020eaee"
+  },
+  "location_name": "Charing Cross / Leicester Square",
+  "opening_hours_exceptions": [],
+  "country": "GBR"
+}

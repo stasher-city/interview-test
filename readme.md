@@ -49,6 +49,8 @@ All components are functional components and state management is done with React
 Styling is done with css modules:
 - https://github.com/css-modules/css-modules
 
+There are some json files with api responses, as examples in /mock
+
 To get started, clone the repo locally. You should have `yarn` installed globally, though you can probably make it work with `nmp` as well, if you prefer. To run the sample code first do a `yarn` and wait for the packages to install. Then `yarn dev` to start.
 
 

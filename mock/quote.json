@@ -1,0 +1,22 @@
+{
+  "first_day_price": 47500,
+  "pre_discount_price": 47500,
+  "discount_amount": 0,
+  "bag_count": 1,
+  "total_price_ccy_code": "KRW",
+  "ccy_minor_in_major": 1,
+  "total_price_amount": 47500,
+  "ccy_symbol": "\u20a9",
+  "extra_day_price": 0,
+  "post_discount_price": 47500,
+  "coupon_code": null,
+  "dropoff": "2019-11-14T15:00:00+00:00",
+  "ccy_code": "KRW",
+  "extra_days": 0,
+  "pickup": "2019-11-14T16:00:00+00:00",
+  "stashpoint": {
+    "description": "Stasher has arrived at Charing Cross with the best value luggage storage in London now available at Internet City. This location is ideal for visitors to Trafalgar Square, the National Gallery, Whitehall, Leicester Square, Covent Garden and much more!",
+    "name": "Internet City",
+    "id": "897a6ed3342e"
+  }
+}
