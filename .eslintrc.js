@@ -4,22 +4,28 @@ module.exports = {
     es6: true
   },
   extends: [
-    'standard'
+    'standard',
+    'plugin:jest/recommended',
+    'plugin:react/recommended'
   ],
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly'
   },
+  parser: 'babel-eslint',
   parserOptions: {
     ecmaFeatures: {
-      jsx: true
+      jsx: true,
+      experimentalObjectRestSpread: true
     },
     ecmaVersion: 2018,
     sourceType: 'module'
   },
   plugins: [
     'react',
-    'react-hooks'
+    'react-hooks',
+    'jest',
+    'babel'
   ],
   rules: {
     'no-multiple-empty-lines': 'off',
